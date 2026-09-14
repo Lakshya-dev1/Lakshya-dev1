@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Lakshya
 
-<!--
-**Lakshya-dev1/Lakshya-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI/ML) Student @ Sharda University  
+💻 Exploring Programming & Building Projects 🚀
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning programming and AI/ML
+- 💡 Interested in Artificial Intelligence & Machine Learning
+- 🛠️ Building projects to improve my skills
+- 📚 Always learning something new
+
+## 🧰 Skills
+
+- Python
+- C / C++
+- Git & GitHub
+- AI / ML — Learning
+
+## 📫 Connect With Me
+
+GitHub: [@Lakshya-dev1](https://github.com/Lakshya-dev1)
