@@ -1,4 +1,4 @@
-# Hi, I'm Lakshya Tanwar 👋
+# Hi, I'm Lakshya 👋
 
 ### 🎓 About Me
 
