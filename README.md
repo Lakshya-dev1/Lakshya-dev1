@@ -1,22 +1,31 @@
-# Hi 👋, I'm Lakshya
+# Hi, I'm Lakshya Tanwar 👋
 
-🎓 CSE (AI/ML) Student @ Sharda University  
-💻 Exploring Programming & Building Projects 🚀
+### 🎓 About Me
 
-## 🚀 About Me
+- 💻 CSE (Artificial Intelligence & Machine Learning) student at **Sharda University**
+- 🌱 Currently learning **Programming, Data Structures & Algorithms, and AI/ML**
+- 🛠️ Building projects to strengthen my practical skills
+- 📚 Improving my problem-solving and development skills every day
+- 🚀 Aspiring to become a skilled **Software & AI/ML Engineer**
 
-- 🌱 Currently learning programming and AI/ML
-- 💡 Interested in Artificial Intelligence & Machine Learning
-- 🛠️ Building projects to improve my skills
-- 📚 Always learning something new
+### 🧰 Tech I'm Learning
 
-## 🧰 Skills
+- **Languages:** C, C++, Python
+- **Core CS:** Data Structures & Algorithms, DBMS, OOP
+- **AI/ML:** NumPy, Pandas, Scikit-learn
+- **Web Development:** HTML, CSS, JavaScript, Flask
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
-- Python
-- C / C++
-- Git & GitHub
-- AI / ML — Learning
+### 📌 Featured Projects
 
-## 📫 Connect With Me
+- 🍎 **NutriSense** — AI-powered Smart Food Nutrition Advisor
+- 🌦️ **Weather App** — Weather information using an API
+- ✅ **To-Do List** — Simple task management web application
 
-GitHub: [@Lakshya-dev1](https://github.com/Lakshya-dev1)
+### 📈 My Goal
+
+> Learn consistently, build meaningful projects, and become internship-ready.
+
+### 🤝 Connect With Me
+
+- GitHub: [@Lakshya-dev1](https://github.com/Lakshya-dev1)
